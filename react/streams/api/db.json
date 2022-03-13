@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "heelo",
+      "description": "changes",
+      "id": 1
+    },
+    {
+      "title": "yo",
+      "description": "hi",
+      "id": 2
+    },
+    {
+      "title": "changes",
+      "description": "changed desc",
+      "id": 3
+    },
+    {
+      "title": "another",
+      "description": "exaple",
+      "id": 4
+    },
+    {
+      "title": "fewf",
+      "description": "efwd",
+      "userId": "106866642826085048856",
+      "id": 5
+    }
+  ]
+}
